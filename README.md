@@ -1,6 +1,12 @@
 # Tech News & Reading
 
 
+
+
+--------------------------------
+
+## 2018, Week #46
+
 - [Software Kills: Boeing Crash](https://www.wsj.com/articles/southwest-replaced-flight-control-sensors-of-the-kind-implicated-in-lion-air-crash-1542330689?mod=hp_lista_pos3)
 - [Unraveling the Boeing 737 MAX Lion Air crash](https://www.yahoo.com/news/explainer-unraveling-boeing-737-max-lion-air-crash-163234845--finance.html)
 - [Microsoft allies with Facebook on A.I. software](https://www.cnbc.com/amp/2018/11/15/microsoft-allies-with-facebook-on-pytorch-onnx-ai-software.html)
