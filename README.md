@@ -16,6 +16,6 @@
 - [Book: Deep Learning with JavaScript](https://www.manning.com/books/deep-learning-with-javascript)
 - [Four Metrics to Measure Your Teams Productivity](https://m.newstimes.com/news/article/4-Metrics-to-Measure-Your-Team-s-Productivity-13391388.php)
 - [How the Ballpoint Pen Killed Cursive](https://getpocket.com/explore/item/how-the-ballpoint-pen-killed-cursive-1025018394)
-- [How to Reduce Risk of the Scary Think You Want to Do](https://www.nytimes.com/2018/11/12/your-money/how-to-reduce-risk-goals.html)
+- [How to Reduce Risk of the Scary Thing You Want to Do](https://www.nytimes.com/2018/11/12/your-money/how-to-reduce-risk-goals.html)
 
 
