@@ -1,6 +1,12 @@
 # Tech News & Reading
 
 
+--------------------------------
+
+## 2018, Week #46
+
+- [100 CSS and JavaScript Tutorials to Boost Your Skills](https://www.creativebloq.com/web-design-tips/css-and-javascript-1233101)
+
 
 
 --------------------------------
