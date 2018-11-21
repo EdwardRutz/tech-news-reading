@@ -5,9 +5,9 @@
 
 ## 2018, Week #47
 
+- [Software Composition Analysis Startups: Investors Are Looking For These Three Qualities](https://www.forbes.com/sites/theyec/2018/11/20/software-composition-analysis-startups-investors-are-looking-for-these-three-qualities/amp/)
+- [API: Random User Generator](https://randomuser.me/)
 - [100 CSS and JavaScript Tutorials to Boost Your Skills](https://www.creativebloq.com/web-design-tips/css-and-javascript-1233101)
-
-
 
 --------------------------------
 
